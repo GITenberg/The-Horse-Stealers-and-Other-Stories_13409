@@ -11,6 +11,7 @@ Title: The Horse-Stealers and Other Stories
 Author: Anton Chekhov
 
 Release Date: September 9, 2004 [EBook #13409]
+Last Updated: December 28, 2016
 
 Language: English
 
@@ -447,8 +448,8 @@ pumpkin seeds, and placed two bottles of sweet wine.
 
 "The kingdom of heaven and peace everlasting to Andrey Grigoritch,"
 said Kalashnikov, clinking glasses with Merik. "When he was alive
-we used to gather together here or at his brother Martin's, and--
-my word! my word! what men, what talks! Remarkable conversations!
+we used to gather together here or at his brother Martin's,
+and--my word! my word! what men, what talks! Remarkable conversations!
 Martin used to be here, and Filya, and Fyodor Stukotey. . . . It
 was all done in style, it was all in keeping. . . . And what fun
 we had! We did have fun, we did have fun!"
@@ -636,7 +637,7 @@ her; she did not resist.
 
 "Come, no nonsense; let me go," he begged her. She did not speak.
 
-"I heard you just now," he said, "telling Merik that you love him.
+"I heard you just now," he said, "telling Merik that you love him."
 
 "I dare say. . . . My heart knows who it is I love."
 
@@ -1301,7 +1302,7 @@ thing that could be done was to let out the patients and close the
 hospital. But he reflected that his will alone was not enough to
 do this, and that it would be useless; if physical and moral impurity
 were driven out of one place, they would only move to another; one
-must wait for it to wither away of itself Besides, if people open
+must wait for it to wither away of itself. Besides, if people open
 a hospital and put up with having it, it must be because they need
 it; superstition and all the nastiness and abominations of daily
 life were necessary, since in process of time they worked out to
@@ -1321,7 +1322,7 @@ had no strength of will nor belief in his right to organize an
 intelligent and honest life about him. He was absolutely unable to
 give orders, to forbid things, and to insist. It seemed as though
 he had taken a vow never to raise his voice and never to make use
-of the imperative. It was difficult for him to say. "Fetch" or
+of the imperative. It was difficult for him to say "Fetch" or
 "Bring"; when he wanted his meals he would cough hesitatingly and
 say to the cook, "How about tea?. . ." or "How about dinner? . . ."
 To dismiss the superintendent or to tell him to leave off stealing,
@@ -2035,8 +2036,8 @@ lie outside a man, but in himself."
 
 "What do you mean?"
 
-"The ordinary man looks for good and evil in external things--
-that is, in carriages, in studies--but a thinking man looks for
+"The ordinary man looks for good and evil in external
+things--that is, in carriages, in studies--but a thinking man looks for
 it in himself."
 
 "You should go and preach that philosophy in Greece, where it's
@@ -2068,7 +2069,7 @@ agitates us. One must strive for the comprehension of life, and in
 that is true happiness."
 
 "Comprehension . . ." repeated Ivan Dmitritch frowning. "External,
-internal. . . . Excuse me, but I don t understand it. I only know,"
+internal. . . . Excuse me, but I don't understand it. I only know,"
 he said, getting up and looking angrily at the doctor--"I only
 know that God has created me of warm blood and nerves, yes, indeed!
 If organic tissue is capable of life it must react to every stimulus.
@@ -2081,8 +2082,8 @@ is it you don't know that? A doctor, and not know such trifles! To
 despise suffering, to be always contented, and to be surprised at
 nothing, one must reach this condition"--and Ivan Dmitritch pointed
 to the peasant who was a mass of fat--"or to harden oneself by
-suffering to such a point that one loses all sensibility to it--
-that is, in other words, to cease to live. You must excuse me, I
+suffering to such a point that one loses all sensibility to
+it--that is, in other words, to cease to live. You must excuse me, I
 am not a sage or a philosopher," Ivan Dmitritch continued with
 irritation, "and I don't understand anything about it. I am not
 capable of reasoning."
@@ -3358,7 +3359,7 @@ hold of in life he is all right.
 
 Zhmuhin went through the entry to the porch, and then he could be
 heard sighing and saying reflectively to himself: "Yes. . . . To
-be sure. . . . By now it was dark, and here and there stars could
+be sure. . . . " By now it was dark, and here and there stars could
 be seen in the sky. They had not yet lighted up indoors. Someone
 came into the parlour as noiselessly as a shadow and stood still
 near the door. It was Lyubov Osipovna, Zhmuhin's wife.
@@ -3749,7 +3750,7 @@ gone a mile and a half there will be Ananova, our village. From the
 village, father, you turn to the right by the river-bank, and so
 you will get to the brickyards. It's two miles from Ananova."
 
-"God give you health. And why are you sitting here?
+"God give you health. And why are you sitting here?"
 
 "We are sitting here watching. You see, there is a dead body. . . ."
 
@@ -4554,7 +4555,7 @@ Kirila began crying. "Let him go!"
 
 "Tfoo, queer fellow! What right have I? Am I a gaoler or what? They
 brought him to the hospital for me to treat him, but I have as much
-right to let him out as I have to put you in prison, silly fellow!
+right to let him out as I have to put you in prison, silly fellow!"
 
 "But they have shut him up for nothing! He was in prison a year
 before the trial, and now there is no saying what he is there for.
@@ -4566,7 +4567,7 @@ let us say, or stolen horses; but as it is, what is it all about?"
 "They shut a man up and they don't know themselves what for. He was
 drunk, your honour, did not know what he was doing, and even hit
 father on the ear and scratched his own cheek on a branch, and two
-of our fellows-they wanted some Turkish tobacco, you see-began
+of our fellows--they wanted some Turkish tobacco, you see-began
 telling him to go with them and break into the Armenian's shop at
 night for tobacco. Being drunk, he obeyed them, the fool. They broke
 the lock, you know, got in, and did no end of mischief; they turned
@@ -5183,8 +5184,8 @@ it).
 "The examining magistrate has just been with the police," answered
 Vassily; "they've made a search."
 
-Avdeyev looked round him. The cupboards, the chests, the tables--
-everything bore traces of the recent search. For a minute Avdeyev
+Avdeyev looked round him. The cupboards, the chests, the
+tables--everything bore traces of the recent search. For a minute Avdeyev
 stood motionless as though petrified, unable to understand; then
 his whole inside quivered and seemed to grow heavy, his left leg
 went numb, and, unable to endure his trembling, he lay down flat
@@ -5518,8 +5519,8 @@ for existence . . . that's perfectly true!"
 
 "It may be true, your Excellency, but it would be better without
 it. The frost did drive out the French, of course, and one can
-freeze all sorts of dishes, and the children can go skating--
-that's all true! For the man who is well fed and well clothed the
+freeze all sorts of dishes, and the children can go
+skating--that's all true! For the man who is well fed and well clothed the
 frost is only a pleasure, but for the working man, the beggar, the
 pilgrim, the crazy wanderer, it's the greatest evil and misfortune.
 It's misery, your Holiness! In a frost like this poverty is twice
@@ -5531,8 +5532,8 @@ to know of it, but how it used to be in old days, Holy Mother! It's
 dreadful to recall it! My memory is failing me with years and I
 have forgotten everything; my enemies, and my sins and troubles of
 all sorts--I forget them all, but the frost--ough! How I remember
-it! When my mother died I was left a little devil--this high--
-a homeless orphan . . . no kith nor kin, wretched, ragged, little
+it! When my mother died I was left a little devil--this
+high--a homeless orphan . . . no kith nor kin, wretched, ragged, little
 clothes, hungry, nowhere to sleep--in fact, 'we have here no
 abiding city, but seek the one to come.' In those days I used to
 lead an old blind woman about the town for five kopecks a day . . .
@@ -5986,7 +5987,7 @@ I respect you as a father and benefactor!"
 "Don't answer me! Go and get some! Look sharp!"
 
 "We've nothing to get it in, your honour. The major has taken the
-fire-brigade horses to drive his aunt to the station.
+fire-brigade horses to drive his aunt to the station."
 
 "Disperse! Stand back, damnation take you! Is that to your taste?
 Put him down, the devil!"
@@ -6365,7 +6366,7 @@ incumbent upon him to entertain his customer.
 prattled on. "But I warn you, M'sieu, all these systems pale beside
 the Smith and Wesson. The other day--as I dare say you have read--an
 officer bought from us a Smith and Wesson. He shot his wife's lover,
-and-would you believe it?-the bullet passed through him, pierced
+and-would you believe it?--the bullet passed through him, pierced
 the bronze lamp, then the piano, and ricochetted back from the
 piano, killing the lap-dog and bruising the wife. A magnificent
 record redounding to the honour of our firm! The officer is now
@@ -6379,7 +6380,7 @@ will be one husband the less in Russia. Society would be pleased
 if the Government were to send all the husbands to Sahalin. Oh,
 M'sieu, you don't know how it excites my indignation to see the
 corruption of morals nowadays. To love other men's wives is as much
-the regular thing to-day as to smoke other men s cigarettes and to
+the regular thing to-day as to smoke other men's cigarettes and to
 read other men's books. Every year our trade gets worse and worse
 --it doesn't mean that wives are more faithful, but that husbands
 resign themselves to their position and are afraid of the law and
@@ -6449,8 +6450,8 @@ think of the moral influence we may have on society! Is it not
 agreeable to feel one has dropped a spark in some thick skull? The
 types one meets! The women! _Mon Dieu_, what women! they turn one's
 head! One penetrates into some huge merchant's house, into the
-sacred retreats, and picks out some fresh and rosy little peach--
-it's heaven, _parole d'honneur!_"
+sacred retreats, and picks out some fresh and rosy little
+peach--it's heaven, _parole d'honneur!_"
 
 In the southern town, among other estimable families he made the
 acquaintance of that of a manufacturer called Zybaev. Whenever he
@@ -6731,7 +6732,7 @@ bank. She listened attentively, nodded in token of assent, and said:
 
 "Yes . . . yes . . . yes . . . I understand, sir. In that case,
 your Excellency, tell them to pay me fifteen roubles at least! I
-agree to take part on account!
+agree to take part on account!"
 
 "Ough!" sighed Kistunov, letting his head drop back. "There's no
 making you see reason. Do understand that to apply to us with such
@@ -6798,7 +6799,7 @@ fellow. . . ."
 
 A minute later the deep drone of Alexey Nikolaitch's voice was
 audible again. A quarter of an hour passed, and instead of his bass
-there was the murmur of the accountant's powerful tenor."
+there was the murmur of the accountant's powerful tenor.
 
 "Re-mark-ably nasty woman," Kistunov thought indignantly, nervously
 shrugging his shoulders. "No more brains than a sheep. I believe
@@ -6946,8 +6947,8 @@ soul free. Yes. In that I saw my happiness!"
 to the bracelet. "It's not you I am kissing, but the suffering of
 humanity. Do you remember Raskolnikov and his kiss?"
 
-"Oh, Voldemar, I longed for glory, renown, success, like every--
-why affect modesty?--every nature above the commonplace. I yearned
+"Oh, Voldemar, I longed for glory, renown, success, like
+every--why affect modesty?--every nature above the commonplace. I yearned
 for something extraordinary, above the common lot of woman! And
 then--and then--there crossed my path--an old general--very
 well off. Understand me, Voldemar! It was self-sacrifice, renunciation!
@@ -6980,7 +6981,7 @@ is it?"
 "Another old general, very well off----"
 
 The broken fan conceals the pretty little face. The author props
-on his fist his thought--heavy brow and ponders with the air of
+on his fist his thought-heavy brow and ponders with the air of
 a master in psychology. The engine is whistling and hissing while
 the window curtains flush red with the glow of the setting sun.
 
@@ -7710,8 +7711,8 @@ and seized his cap. He looked distraught.
 "You are crazy. . . ."
 
 The two men looked at each other, probably because the same thought
---of the boundless plains, the unending forests and swamps--
-struck both of them at once.
+--of the boundless plains, the unending forests and
+swamps--struck both of them at once.
 
 "Well, I see you have gone off your head," the _jeune premier_
 commented. "I'll tell you what, old man. . . . First thing, go to
